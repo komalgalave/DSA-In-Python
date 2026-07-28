@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/komalgalave/DSA-In-Python/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/komalgalave/DSA-In-Python/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
