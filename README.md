@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/komalgalave/DSA-In-Python/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -12,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/komalgalave/DSA-In-Python/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/komalgalave/DSA-In-Python/tree/master/1929-concatenation-of-array) |
 ## Simulation
