@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/komalgalave/DSA-In-Python/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/komalgalave/DSA-In-Python/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/komalgalave/DSA-In-Python/tree/master/0027-remove-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/komalgalave/DSA-In-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/komalgalave/DSA-In-Python/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/komalgalave/DSA-In-Python/tree/master/1929-concatenation-of-array) |
