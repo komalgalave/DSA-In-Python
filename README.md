@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/komalgalave/DSA-In-Python/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/komalgalave/DSA-In-Python/tree/master/2652-sum-multiples) |
 ## Prefix Sum
 |  |
 | ------- |
