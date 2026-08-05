@@ -16,6 +16,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/komalgalave/DSA-In-Python/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/komalgalave/DSA-In-Python/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/komalgalave/DSA-In-Python/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/komalgalave/DSA-In-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/komalgalave/DSA-In-Python/tree/master/1480-running-sum-of-1d-array) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/komalgalave/DSA-In-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/komalgalave/DSA-In-Python/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
