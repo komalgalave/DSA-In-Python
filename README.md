@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/komalgalave/DSA-In-Python/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/komalgalave/DSA-In-Python/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -17,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/komalgalave/DSA-In-Python/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/komalgalave/DSA-In-Python/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/komalgalave/DSA-In-Python/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/komalgalave/DSA-In-Python/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/komalgalave/DSA-In-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -43,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/komalgalave/DSA-In-Python/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/komalgalave/DSA-In-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
