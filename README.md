@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/komalgalave/DSA-In-Python/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/komalgalave/DSA-In-Python/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/komalgalave/DSA-In-Python/tree/master/0088-merge-sorted-array) |
@@ -11,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/komalgalave/DSA-In-Python/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/komalgalave/DSA-In-Python/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
@@ -59,4 +61,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/komalgalave/DSA-In-Python/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/komalgalave/DSA-In-Python/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/komalgalave/DSA-In-Python/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
